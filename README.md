@@ -1,6 +1,6 @@
-# Novel Office - Homepage
+#Homepage
 
-A clean, modern homepage for Novel Office matching the provided design reference. Built with pure HTML, CSS, and JavaScript.
+A clean, modern homepage. Built with pure HTML, CSS, and JavaScript.
 
 ## 🌟 Features
 
